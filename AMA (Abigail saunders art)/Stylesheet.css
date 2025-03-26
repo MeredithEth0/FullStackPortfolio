@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(190, 88, 40);
+    font-size: 60px;
+    margin-top: 0%;
+    text-align: center;
+    font-family: Arial;
+    background-color: rgb(197, 197, 162) !important;
+    text-shadow: 1px 1px 0px black;
+}
+
+* {
+    margin-left: 0%;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(211, 211, 173);
+}
+
+.HeadOfPage {
+    position: fixed;
+    background-color: rgb(197, 197, 162);
+    top: 0;
+    padding: 10px;
+    height: 80px;
+    width: 100%;
+    z-index: 1000;
+    border-bottom: 3px dashed rgb(190, 88, 40);
+}
